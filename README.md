@@ -5,4 +5,4 @@
 ![Table Dhote](https://imgur.com/5EUWM7j.jpg)
 
 ## Ala Carte
-![Ala Carte](https://imgur.com/dsrMKuD.jpg)
+![Ala Carte](https://imgur.com/dsrMKuD.png)
