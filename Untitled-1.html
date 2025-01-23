@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Display Images with Background Color and Flashing Heading</title>
+    <style>
+        body {
+            background-color: #000000; /* black background color */
+            font-family: Arial, sans-serif;
+            padding: 20px;
+        }
+        h1 {
+            animation: flash 0.5s 6; /* Flash for 0.5 seconds, 6 times */
+        }
+        @keyframes flash {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0; }
+        }
+        img {
+            display: block;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Display Two Images at Original Resolution</h1>
+    <!-- Image 1 -->
+    <img src="c:\Users\admin\Desktop\simple menu\table dhote.jpg" alt="Image 1">
+
+    <!-- Image 2 -->
+    <img src="c:\Users\admin\Desktop\simple menu\ala carte.jpg" alt="Image 2">
+</body>
+</html>
