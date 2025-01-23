@@ -1,5 +1,5 @@
 # menu
-# Display Two Images at Original Resolution
+# SAGE AND SALTS 
 
 ## Table Dhote
 ![Table Dhote](https://imgur.com/dsrMKuD.png)
